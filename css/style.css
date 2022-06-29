@@ -1,0 +1,54 @@
+body {
+    background-color: #76c35d;
+}
+
+.loginfrom {
+    background-color: white;
+    width: 400px;
+    padding: 50px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 0 0 50px -7px black;
+}
+
+.loginfrom input {
+    width: 88%;
+    display: block;
+    padding: 20px;
+    background: #f2f2f2;
+    margin-bottom: 20px;
+    border: none;
+    font-size: 15px;
+}
+
+.loginbtn {
+    background: linear-gradient(#00B242, #088335) !important;
+    color: white;
+    font-size: 18px !important;
+    width: 100% !important;
+}
+
+.register {
+    text-align: center;
+    font-size: 15px;
+}
+
+.register span {
+    color: #ddd;
+}
+
+.register a {
+    color: #35bc5e;
+    text-decoration: none;
+}
+
+.loginfrom h2 {
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Arial;
+    text-transform: uppercase;
+    color: #444;
+    text-shadow: 1px 1px 1px black;
+}
